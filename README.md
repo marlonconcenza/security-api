@@ -45,6 +45,8 @@ Após a instalação do Postgres, a criação do banco de dados e a configuraç�
 $ npm run typeorm migration:run
 ```
 
+Para configurar variáveis de ambiente, crie um arquivo na raiz do projeto com o nome **.env**, copie o conteúdo do arquivo **.env.example** e preencha os valores.
+
 ### Executando a aplicação
 
 No diretório do projeto, executar o comando:
