@@ -7,7 +7,7 @@
 
 ## Sobre este projeto
 
-API Restful com authenticação e administração de usuários.
+API Restful com autenticação e administração de usuários.
 
 - Autenticação com token JWT
 - Configuração para acesso ao banco de dados [Postgres](https://www.postgresql.org)
